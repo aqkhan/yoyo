@@ -3,7 +3,7 @@
  * WordPress Ninja by A Q Khan ( aqkhan@iintellect.co.uk )
  * Contains most of basic WP functions and some high level custom code shit.
  * Version 0.1
- * Last Updated: June 3, 2014
+ * Last Updated: March 26, 2016
  */
 
 //== BASIC LEVEL SHIT ==//
