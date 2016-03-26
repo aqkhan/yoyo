@@ -1,12 +1,12 @@
-Kickstart WordPress Theme
+YoYo WordPress Template
 ===========
 
 ### Starter kit for WordPress themes.
 
-* Bootstrap (version 3.1.1 minified) loaded
+* Bootstrap (version 3.3.6 minified) loaded
 * Custom CSS loaded the proper way 
 * Custom JS loaded the proper way 
-* jQuery loaded the proper way
+* jQuery 1.12.2 loaded the proper way
 * Page titles loaded the proper way
 * Facebook og meta loaded the proper way 
 * Print Conditional Scripts (Bootstrap or Browser Compatibility scripts) 
@@ -23,20 +23,4 @@ Kickstart WordPress Theme
 * Resize and PRINT images (Needs a page to print image on ) 
 * Pagination 
 * Change URL of the website easily after deploying on live server 
-
-### Coming Soon
-
-* Basic Bootstrap UI loaded
-* AJAX Based User Registration
-* AJAX Based User Login
-* AJAX Based Pagination
-* AJAX Based Search
-* AJAX Based Comments System
-* Custom Post Types
-* Post Meta
-* Admin Panels and Pages
 * Facebook SDK integration
-
-### Requests / Issues
-
-Send your requests / issues at aqk.neo@gmail.com
